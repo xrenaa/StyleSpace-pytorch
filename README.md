@@ -15,6 +15,8 @@ I have tested on:
 
 ## Usage
 
+For the index and channel, please check the paper (https://arxiv.org/pdf/2011.12799.pdf), e.g., `(11_286)`, channel 286 of generator level 11.
+
 #### FFHQ
 
 - Firstly, you should download pretrained model from [here](https://www.dropbox.com/s/c3aaq7i6soxmpzu/pretrained_stylegan2_ffhq.tar) and place the `stylegan2-ffhq-config-f.pkl` into `pretrained` folder.
