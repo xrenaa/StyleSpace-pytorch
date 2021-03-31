@@ -24,9 +24,12 @@ For the index and channel, please check the paper (https://arxiv.org/pdf/2011.12
 
 #### Car
 
+- Comming soon
+
 
 #### LSUN
 
+- Comming soon
 
 
 ## Credit
