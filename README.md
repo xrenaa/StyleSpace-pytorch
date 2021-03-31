@@ -4,7 +4,7 @@ Implementation of StyleSpace Analysis: Disentangled Controls for StyleGAN Image 
 
 This implementation is mostly relied on rosinality's [stylegan2-pytorch](https://github.com/rosinality/stylegan2-pytorch/)
 
-![An image](./images/stylegan2_kid2_eyes.gif)
+![An image](img.png)
 
 ## Requirements
 
